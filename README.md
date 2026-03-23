@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Greetings, I'm Yusef
+## 👋 Greetings, I'm Yusuf
 
 Your friendly neighborhood **developer**
-Exploring **AI**, **JavaScript**, and **design-driven projects**.
+Exploring **AI**, **JavaScript**, and **database-driven projects**.
 
-- 🌱 Currently building: **NOVA-rebooted** — an AI assistant prototype  
-- 🎥 Previously built: **Cinemock** — a Netflix-style web app  
-- 🧩 Motto: “Make code feel alive.”  
+- 🌱 Currently building: **Shinko** — a Kanban Utility toll.  
+- 🎥 Previously built: **Soniq** — a custom CSS Library
 
 ⚡ I love blending creativity with technology — always learning, always experimenting.
 
