@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Your friendly neighborhood **developer**
 Exploring **AI**, **JavaScript**, and **database-driven projects**.
 
-- 🌱 Currently building: **Shinko** — a Kanban Utility toll.  
+- 🌱 Currently building: **Shinko** — a Kanban Utility tool.  
 - 🎥 Previously built: **Soniq** — a custom CSS Library
 
 ⚡ I love blending creativity with technology — always learning, always experimenting.
