@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 Your friendly neighborhood **developer**
 Exploring **AI**, **JavaScript**, and **database-driven projects**.
 
-- 🌱 Currently building: **Shinko** — a Kanban Utility tool.  
-- 🎥 Previously built: **Soniq** — a custom CSS Library
+- 🌱 Currently building: **Classroom Mnagement App** — a Dashboard app.  
+- 🎥 Previously built: **Whispr** — a Modern Chat bot with an external API, **Shinko** a Kanban tool.
+
 
 ⚡ I love blending creativity with technology — always learning, always experimenting.
 
