@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Greetings, I'm Yusuf
+## Why, Hello there! 👋
 
-Your friendly neighborhood **developer**
+I'm **Yusuf**, your friendly neighborhood **developer**
 Exploring **AI**, **JavaScript**, and **database-driven projects**.
 
 - 🌱 Currently building: **Classroom Mnagement App** — a Dashboard app.  
