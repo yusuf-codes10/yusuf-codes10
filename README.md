@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 I'm **Yusuf**, your friendly neighborhood **developer**
 Exploring **AI**, **JavaScript**, and **database-driven projects**.
 
-- 🌱 Currently building: **Classroom Mnagement App** — a Dashboard app.  
-- 🎥 Previously built: **Whispr** — a Modern Chat bot with an external API, **Shinko** a Kanban tool.
-
+## 🔨 What I'm Building
+ 
+- 🏫 **[Classroom Management App](#)** — A full-featured dashboard app (in progress)
+- 💬 **[Whispr](https://github.com/yusuf-codes10/whispr)** — A modern chatbot powered by an external API
+- 📋 **[Shinko](https://github.com/yusuf-codes10/shinko)** — A Kanban tool I actually use
 
 ⚡ I love blending creativity with technology — always learning, always experimenting.
 
