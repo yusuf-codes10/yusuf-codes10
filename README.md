@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Why, Hello there! 👋
+## Why, Hello! 👋
 
 I'm **Yusuf**, your friendly neighborhood **developer**
 Exploring **AI**, **JavaScript**, and **database-driven projects**.
