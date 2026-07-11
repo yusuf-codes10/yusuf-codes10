@@ -37,8 +37,3 @@ Exploring **AI**, **JavaScript**, and **database-driven projects**.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
  
 ---
-
-⚡ I love blending creativity with technology — always learning, always experimenting.
-
----
-> "Code is my art, design is my brush, and the web is my canvas."
