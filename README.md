@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Why, hello! 👋
 
-I'm **Yusuf**, a developer who loves building things that people actually use.
+I'm **Yusuf**, your friendly neighborhood **developer**
 I explore **AI**, **JavaScript**, and **database-driven projects**.
 
 ## ⭐ Main Project
@@ -30,11 +30,7 @@ I'm the **author, builder, and maintainer** of ClaireX. I designed it from the g
 
 - 💬 **[Whispr](https://github.com/yusuf-codes10/whispr)**: A modern chatbot powered by an external API
 - 🐝 **[WaspScript](https://github.com/yusuf-codes10/wasp-script)**: A platform for drilling JavaScript challenges and sharpening your fundamentals
-- 📋 **[Shinko](https://github.com/yusuf-codes10/shinko)**: A Kanban tool I actually use every day
-
-## 🚧 Currently Working On
-
-- 🏫 **[Classroom Management App](#)**: 
+- 📋 **[Shinko](https://github.com/yusuf-codes10/shinko)**: A Kanban tool I actually use every day 
 
 ## 🧰 Tech I Work With
 
