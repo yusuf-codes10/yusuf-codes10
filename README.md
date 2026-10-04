@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Why, hello! 👋
 
-I'm **Yusuf**, your friendly neighborhood **developer**
+I'm **Yusuf**, your friendly neighborhood **developer**,
 I explore **AI**, **JavaScript**, and **database-driven projects**.
 
 ## ⭐ Main Project
