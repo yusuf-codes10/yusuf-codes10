@@ -14,19 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Why, Hello! 👋
+## Why, hello! 👋
 
-I'm **Yusuf**, your friendly neighborhood **developer**
-Exploring **AI**, **JavaScript**, and **database-driven projects**.
+I'm **Yusuf**, a developer who loves building things that people actually use.
+I explore **AI**, **JavaScript**, and **database-driven projects**.
 
-## 🔨 What I'm Building
- 
-- 🏫 **[Classroom Management App](#)** — A full-featured dashboard app (in progress)
-- 💬 **[Whispr](https://github.com/yusuf-codes10/whispr)** — A modern chatbot powered by an external API
-- 📋 **[Shinko](https://github.com/yusuf-codes10/shinko)** — A Kanban tool I actually use
+## ⭐ Main Project
+
+### [ClaireX](https://github.com/yusuf-codes10/clairex-core)
+> *[ClaireX is a class-based, explicitly-typed web framework for Bun]*
+
+I'm the **author, builder, and maintainer** of ClaireX. I designed it from the ground up and keep it evolving.
+
+## 🔨 What I've Built
+
+- 💬 **[Whispr](https://github.com/yusuf-codes10/whispr)**: A modern chatbot powered by an external API
+- 🐝 **[WaspScript](https://github.com/yusuf-codes10/wasp-script)**: A platform for drilling JavaScript challenges and sharpening your fundamentals
+- 📋 **[Shinko](https://github.com/yusuf-codes10/shinko)**: A Kanban tool I actually use every day
+
+## 🚧 Currently Working On
+
+- 🏫 **[Classroom Management App](#)**: 
 
 ## 🧰 Tech I Work With
- 
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,5 +46,5 @@ Exploring **AI**, **JavaScript**, and **database-driven projects**.
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- 
+
 ---
