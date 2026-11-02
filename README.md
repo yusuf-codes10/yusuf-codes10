@@ -1,5 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0a5a8eb-a380-4716-907f-75b1077d2d0a" />
-
 <!--
 **yusef-codes10/yusef-codes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
