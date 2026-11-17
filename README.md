@@ -44,7 +44,7 @@ const yusuf = {
  
 <div align="center">
  
-<a href="https://github.com/yusuf-codes10/ClaireX">
+<a href="https://github.com/yusuf-codes10/clairex-core">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-codes10&repo=ClaireX&theme=catppuccin_mocha&hide_border=true&show_owner=false" alt="ClaireX" />
 </a>
  
@@ -69,13 +69,13 @@ const yusuf = {
       <h3>🐝 WaspScript</h3>
       <sub>Drill JavaScript challenges and sharpen your fundamentals.</sub>
       <br/><br/>
-      <a href="https://github.com/yusuf-codes10/WaspScript"><img src="https://img.shields.io/badge/View-Repo-f9e2af?style=flat-square&logo=github&labelColor=1e1e2e" alt="WaspScript"/></a>
+      <a href="https://github.com/yusuf-codes10/wasp-script"><img src="https://img.shields.io/badge/View-Repo-f9e2af?style=flat-square&logo=github&labelColor=1e1e2e" alt="WaspScript"/></a>
     </td>
     <td align="center" width="33%">
       <h3>📋 Shinko</h3>
       <sub>A Kanban tool I actually use every day.</sub>
       <br/><br/>
-      <a href="https://github.com/yusuf-codes10/Shinko"><img src="https://img.shields.io/badge/View-Repo-a6e3a1?style=flat-square&logo=github&labelColor=1e1e2e" alt="Shinko"/></a>
+      <a href="https://github.com/yusuf-codes10/shinko"><img src="https://img.shields.io/badge/View-Repo-a6e3a1?style=flat-square&logo=github&labelColor=1e1e2e" alt="Shinko"/></a>
     </td>
   </tr>
 </table>
