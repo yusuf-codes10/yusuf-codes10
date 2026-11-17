@@ -14,16 +14,6 @@ I'm the author and maintainer of ClaireX. I designed it from the ground up and k
 
 ---
 
-## 🔨 Other Projects
-
-| Project | What it is |
-| --- | --- |
-| 💬 [**Whispr**](https://github.com/yusuf-codes10/whispr) | A modern chatbot powered by an external API |
-| 🐝 [**WaspScript**](https://github.com/yusuf-codes10/wasp-script) | A platform for drilling JavaScript challenges and sharpening your fundamentals |
-| 📋 [**Shinko**](https://github.com/yusuf-codes10/shinko) | A Kanban tool I actually use every day |
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
