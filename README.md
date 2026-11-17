@@ -86,8 +86,8 @@ const yusuf = {
  
 <div align="center">
  
-<img src="https://skillicons.dev/icons?i=js,ts,bun,nodejs,hono,vue,nuxt,react,tailwind,php,laravel,postgres,mongodb,git,linux,vercel&perline=9" alt="Tech stack" />
- 
+<img src="https://skillicons.dev/icons?i=js,ts,bun,nodejs,hono,vue,nuxt,react,tailwind,php,laravel,postgres,mongodb,git,linux,vercel&perline=8" alt="Tech stack" /> 
+
 </div>
  
 ---
