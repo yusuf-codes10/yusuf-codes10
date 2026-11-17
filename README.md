@@ -43,14 +43,14 @@ const yusuf = {
 ## ⭐ Featured project
  
 <div align="center">
- 
+
 <a href="https://github.com/yusuf-codes10/clairex-core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-codes10&repo=ClaireX&theme=catppuccin_mocha&hide_border=true&show_owner=false" alt="ClaireX" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuf-codes10&repo=clairex-core&theme=catppuccin_mocha&hide_border=true&show_owner=false" alt="ClaireX" />
 </a>
- 
+
 > **ClaireX** is a class-based, explicitly-typed web framework for Bun.
 > Designed from the ground up, and still evolving.
- 
+
 </div>
  
 ---
