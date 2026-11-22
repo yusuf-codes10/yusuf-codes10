@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Yusuf%20Tr&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Framework%20Author%20%C2%B7%20AI%20Explorer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Youcef%20A%20Touir&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Framework%20Author%20%C2%B7%20AI%20Explorer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
  
 <a href="https://github.com/yusuf-codes10">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=F38BA8&center=true&vCenter=true&width=700&lines=I+design+frameworks+from+the+ground+up;I+ship+tools+I+actually+use+every+day;TypeScript+%7C+Bun+%7C+AI+%7C+Databases;Solving+my+own+problems%2C+one+commit+at+a+time" alt="Typing animation" />
