@@ -104,8 +104,9 @@ const yusuf = {
 <img src="https://streak-stats.demolab.com/?user=yusuf-codes10&theme=catppuccin-mocha&hide_border=true" alt="Streak"/>
  
 <br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-codes10&theme=react-dark&bg_color=1e1e2e&color=f38ba8&line=cba6f7&point=f9e2af&area=true&hide_border=true" alt="Activity graph" width="100%"/>
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-codes10&theme=react-dark&bg_color=1e1e2e&color=f38ba8&line=cba6f7&point=f9e2af&area=true&hide_border=true" alt="Activity graph" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/yusuf-codes10/yusuf-codes10/output/activity-graph.svg" alt="Activity graph" width="100%"/>
  
 </div>
  
